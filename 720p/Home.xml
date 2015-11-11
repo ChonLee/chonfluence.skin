@@ -949,7 +949,7 @@
 					</item>
                                         <item id="60">
                                                 <label>KIDS</label>
-                                                <onclick>ActivateWindow(Weather)</onclick>
+                                                <onclick>ActivateWindow(10025,&quot;videodb://movies/tags/1/&quot;,return)</onclick>
                                                 <icon>-</icon>
                                                 <thumb>-</thumb>
                                         </item>
